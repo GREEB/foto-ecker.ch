@@ -1,6 +1,8 @@
 ## foto-ecker.ch
 This is a simple static website made for a store that sells camera & gear. This was used as a placeholder while waiting for a full website
 
+![Screenshot](https://i.imgur.com/uesDLgO.png)
+
 ### Based on HTML5 UP
 I used [this](https://html5up.net/paradigm-shift) HTML 5 UP theme
 
